@@ -1,4 +1,4 @@
-# Recession-Analysis-
+# Recession-Analysis
 Recession Analysis using Python
 
 ### Overview
